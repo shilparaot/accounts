@@ -1,0 +1,143 @@
+-	`
+
+
+
+ORDER             CUSTOMER               VENDOR                 AMOOUNT TO VENDOR       AMOUNT FROM CUSTOMER    BENEFIT      TRANSFFERED AMT   AMT TRANSFFERD   DELIVERY
+                                                                                                                                 FROM CUS      TO VENDOR
+
+
+
+    
+BANGLES          DEEPTHI                DIVYA                  1050+180                 1100+200                70              NO             YES            delivered  f 
+
+
+
+SILK KOTA       SRILTA AKKA            SRAVANTHI               3600+60                  3800+100                240             NO              YES               TO ME
+
+
+
+BEARAS FANCY    ,,                         ,,                   4800+60                 4900+120               120              yes             NO             to me            
+
+
+
+BLACK SAREE      SHIRISHA APT          DIVYA                    1450+180                1500+200               70               YES            YES        delivered            
+
+
+
+KALAMKARISILK     hariakka            Samyukta                 1300+100                1450+100                   150           NO               yes      delovered             
+
+
+,,                     ,,                   ,,                   ,,                         ,,                    ,,            ,,               ,,                   
+
+
+
+,,                DEEPTHI               ,,                       ,,                       ,,                       ,,           ,,              ,,      DELIVERED             
+
+
+
+
+
+
+
+KUPPADAM         VIJAYA USA           SRAVANTHI                 5400+50                5800+100                 450            NO               YES             TO SRA
+
+
+
+
+DUPION(2)             ,,               VARANASI                 5350+225                5780+100                                                 YES       DELIVERED                   
+                                                                                        5780+100                                                                      
+                                                                                                                 860          11560not           yes       DELIVERED                           
+
+
+
+
+
+TISSUE UPPAD         ,,               UPPADA                   2350+100                2800+100                450            YES             NO                to sra                  
+
+
+  
+
+IKKATDUPPAT     KISHOREWIFE          SRAVANTHI                 3350+100                 3700+100                350           YES              yes                TO CUS
+
+
+
+
+
+KANCHI ORGA     SUNITHA USA         SRAVANTHI                   3850+100                4150+100                300           yes               NO                to sra                    
+
+
+
+
+
+BENARASFANCY    DEEPIKAAPT          SAMYUKTA                    1400+100                1900                     400          YES              NO         WITH ME                     
+
+
+
+
+
+,,              DEEPFRDUSA            ,,                         1500+100              2200+100                 800           YES                YES?              TO ME
+
+
+
+
+
+
+  
+
+KOTAKALAMKA    SRAVANI                ,,                         950+100               1100+100                 150           YES                   NO   DELIVEED            
+
+
+
+
+ 
+ITALIANCRAP    SHILPAFRD              ,,                          950+100              1150+130                  250           YES                  YES        DELIVERED       
+
+
+
+
+
+SATINSHIBO     PRANITHA              DESIGNERSAREES               1050                 1600+100                  650           YES                   YES     DELIVERED          
+
+
+
+           
+
+BLOUSE (4)       VIJAYAUSA              SRAVANTHI 
+
+
+
+
+BLOUSE(2)      SUNITHAUSA              SRAVANTHI                                                                                                                  
+
+                  
+
+CROPTOP         ,,                    SIRI CREATIONS           4500                4950                        450            NO                        NO             
+
+
+
+
+SAREES(2)      SANGAVI(HNK)          SRAVANTHI                  1350,3200          1900,3900                   1250             NO                   NO       DELIVERED        
+
+
+
+PURE PATTU     SUCHI USA             SRAVANTHI                 7200               10500                       2800           YES
+
+shiborisaree   anjali              samyukta                   1100+100            1500+100                   400             no                        no
+
+PURE PATTU     SANGHAVI           BHAVYA                   12000                  13500                   1500              YES                NO            with me                 
+
+
+
+ 
+
+
+ benarasgeorge   suchiusa             samyukta                 3400                3800+120                    520            YES                        no    SRAVANTHI
+
+
+
+pure pat inst    bala usa        arunacalcutta              8150+100             10800+100                2650               yes            no                 
+
+,,              chittivad         ,,                         7100+100             7100+100                 no profit          yes           no                 
+
+
+
