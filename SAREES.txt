@@ -8,7 +8,7 @@ ORDER             CUSTOMER               VENDOR                 AMOOUNT TO VENDO
 
 
     
-BANGLES          DEEPTHI                DIVYA                  1050+180                 1100+200                70              NO             YES            delivered  f 
+BANGLES          DEEPTHI                DIVYA                  1050+180                 1100+200                75             NO             YES            delivered  f 
 
 
 
